@@ -6,9 +6,9 @@ function preload() {
     //load the images here
     gardenImg=loadImage("garden.png");
     catImg=loadAnimation("cat1.png");
-    mouseImg=loadAnimation("mouse2.png");
+    mouseImg=loadAnimation("mouse1.png");
     catImg2=loadAnimation("cat2.png","cat3.png");
-    mouseImg2=loadAnimation("mouse3.png");
+    mouseImg2=loadAnimation("mouse2.png","mouse3.png");
     catImg3=loadAnimation("cat4.png");
     mouseImg3=loadAnimation("mouse4.png");
 }
